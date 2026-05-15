@@ -45,3 +45,13 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+
+# Local-only — side tools and personal files that shouldn't be tracked
+.omc/
+.quack/
+dashboard/.omc/
+career-dash
+Chris_Skaling_CV_*
+docs/Chris_Skaling_CV_*
+data/follow-ups.md
+batch/archive/
